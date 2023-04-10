@@ -1,4 +1,4 @@
-# Algo_visulaizer
+# Sorting_visualizer
 Created with CodeSandbox
 
 <br>This is basically sorting visulalizer<br> 
